@@ -1,1 +1,6 @@
 byte0 : i_wanna_be
+
+
+byte1 : μπορουμε να βρουμε τι κανει το προγρσμμα supercalifragilisticexpialidocious  τρεχοντας την εντολη :
+man supercalifragilisticexpialidocious
+
