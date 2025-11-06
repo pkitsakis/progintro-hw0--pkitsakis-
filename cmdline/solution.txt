@@ -1,4 +1,4 @@
-byte0 : i_wanna_be
+byte0 : you_just_mastered_changing_directories
 
 
 byte1 : μπορουμε να βρουμε τι κανει το προγρσμμα supercalifragilisticexpialidocious  τρεχοντας την εντολη :
